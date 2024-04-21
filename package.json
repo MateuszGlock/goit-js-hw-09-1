@@ -1,0 +1,14 @@
+{
+  "name": "goitacademy-javascript-homework-main-v2-09_src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz_Glock",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "flatpickr": "^4.6.13"
+  }
+}

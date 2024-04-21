@@ -7,7 +7,6 @@ function getRandomHexColor() {
 function changeBackgroundColor() {
   let newColor = getRandomHexColor();
   document.body.style.backgroundColor = newColor;
-  console.log(newColor);
 }
 function startChangingBackground() {
   startButton.setAttribute("disabled", "");
